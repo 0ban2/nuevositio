@@ -299,7 +299,7 @@
   						<div class="box_aside">
   							<div class="icon2 fa-twitter"></div>
   						</div>
-  						<div class="box_cnt__no-flow"><a href="#">Follow on Twitter</a></div>
+  						<div class="box_cnt__no-flow"><a href="#">Follow on Twitter a</a></div>
   					</div>
   				</li>
   			</ul>
